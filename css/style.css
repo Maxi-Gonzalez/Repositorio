@@ -93,6 +93,12 @@ h1, h2, h3 {
   background-color: rgba(198, 195, 195, 0.5);
 }
 
+footer p{
+  display: flex;
+  font-size: 1.6rem;
+  justify-content: center;
+}
+
 #formulario {
   margin-top: 1%;
   margin-bottom: 1%;
